@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jontium
 
-- 🌱 I’m currently a full time student studying for my Bachelors in Information Technology with my focus being in Cybersecurity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 🌱 I am a full time student studying for my Bachelors in Information Technology with a focus in Cybersecurity.
+- 💞️ I’m looking to collaborate on all range of projects. I am always interested in expanding my knowledge in every area!
 
 <!---
 jontium/jontium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
