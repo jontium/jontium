@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jontium
 
-- 🌱 Associate in Science in Computer Science
+- 🌱 Associate in Science in Computer Science.
 - 🌱 Bachelors in Information Technology with a focus in Cybersecurity.
 - 💞️ I’m looking to collaborate on all ranges of projects. I am always interested in expanding my knowledge in every area!
 
